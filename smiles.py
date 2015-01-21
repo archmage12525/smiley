@@ -1,7 +1,7 @@
 """
 
 Use turtle graphics to draw a smily face in python
-file: smiles.py
+file: github.py
 author: HH
 
 """
